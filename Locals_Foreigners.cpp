@@ -1,13 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*
- * Student Name,Surname : Gülsüm İkbal avşar
- * Student ID : 64180006
- * Department : CoE - EEE
- * Assignment No: 3
- */
-
 class Locals{
 protected:
     int TC;
